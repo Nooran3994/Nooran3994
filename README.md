@@ -4,6 +4,10 @@
 
 ---
 
+![banner](banner.jpg)
+
+---
+
 ## 🧠 What I'm working on
 
 - 🤖 **SCAAI** — a personal AI partner that runs locally: files, code, terminal, memory, and automation, all on-device
