@@ -1,4 +1,4 @@
-# Hi there, I'm Nooran 👋
+# Hi there, I'm Alfred 👋
 
 **Building software that lives on your machine.** I design, build, and ship local-first AI tools, desktop apps, and developer infrastructure — with a focus on privacy, performance, and clean architectural decisions.
 
@@ -29,15 +29,15 @@
 
 ## 📊 GitHub Overview
 
-| Stats | Streak | Languages |
-|---|---|---|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nooran3994&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Nooran3994&theme=radical&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nooran3994&layout=compact&theme=radical&hide_border=true) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nooran3994&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" width="46%" />
+  <img src="https://streak-stats.demolab.com/?user=Nooran3994&theme=radical&hide_border=true" alt="GitHub streak" width="46%" />
+</p>
 
----
-
-## 📈 Activity
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nooran3994&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooran3994&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="40%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nooran3994&theme=radical&hide_border=true" alt="GitHub activity graph" width="55%" />
+</p>
 
 ---
 
