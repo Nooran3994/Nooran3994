@@ -31,20 +31,6 @@
 
 ---
 
-## 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nooran3994&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" width="46%" />
-  <img src="https://streak-stats.demolab.com/?user=Nooran3994&theme=radical&hide_border=true" alt="GitHub streak" width="46%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nooran3994&layout=compact&theme=radical&hide_border=true" alt="Top languages" width="40%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nooran3994&theme=radical&hide_border=true" alt="GitHub activity graph" width="55%" />
-</p>
-
----
-
 ## 🔗 Find me
 
 - 🌐 [systemprompts.site](https://systemprompts.site)
