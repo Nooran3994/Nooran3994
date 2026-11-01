@@ -31,6 +31,13 @@
 
 ---
 
+## 📬 Contacts
+
+- ✉️ **Agents** — [agents@systemprompts.site](mailto:agents@systemprompts.site)
+- ✉️ **Info** — [info@systemprompts.site](mailto:info@systemprompts.site)
+
+---
+
 ## 🔗 Find me
 
 - 🌐 [systemprompts.site](https://systemprompts.site)
